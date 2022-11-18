@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 > R scripts
 
-[Learning R](https://maciejsok.github.io/scripts/01%20Learning%20R.html)
+[Learning R](https://maciejsok.github.io/scripts/r%2001%20Learning%20R.html)
 
 [Data Wrangling in R](https://maciejsok.github.io/scripts/03%20Data%20Wrangling%20in%20R.html)
 
