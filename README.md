@@ -42,9 +42,11 @@ You can click the Preview link to take a look at your changes.
 
 # Python
 
-> Data Science
+> Learning Python
 
 [Guide to Python](https://maciejsok.github.io/scripts/py%20w3schools.html)
+
+> Data Science
 
 [Exploratory Data Analysis](https://maciejsok.github.io/scripts/py%20ExploratoryDataAnalysis.html)
 
