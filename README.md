@@ -1,7 +1,5 @@
-Data Science
-
 - 👋 Hi
-- 👀 I’m interested in statistics, probability, machine learning, and food.
+- 👀 I’m interested in statistics, probability, and machine learning.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ... tbd
 
