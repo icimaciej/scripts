@@ -3,10 +3,21 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ... tbd
 
-<!---
-bigdatagal/bigdatagal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Python
+
+> Learning Python
+
+[Guide to Python](https://maciejsok.github.io/scripts/py%20w3schools.html)
+
+> Data Science
+
+[Exploratory Data Analysis](https://maciejsok.github.io/scripts/py%20ExploratoryDataAnalysis.html)
+
+[Python for Data Science Essential Training 1](https://maciejsok.github.io/scripts/py%2021%20Python%20Essential%20Training%20Part%201.html)
+
+[Python for Data Science Essential Training 2](https://maciejsok.github.io/scripts/py%2021%20Python%20Essential%20Training%20Part%202.html)
+
+> Web Scraping
 
 # R
 
@@ -37,22 +48,6 @@ You can click the Preview link to take a look at your changes.
 [Data Visualization in R with ggplot2](https://maciejsok.github.io/scripts/r%2013%20plots%20Data%20Visualization%20in%20R%20with%20ggplot2.html)
 
 [Shiny App]()
-
-# Python
-
-> Learning Python
-
-[Guide to Python](https://maciejsok.github.io/scripts/py%20w3schools.html)
-
-> Data Science
-
-[Exploratory Data Analysis](https://maciejsok.github.io/scripts/py%20ExploratoryDataAnalysis.html)
-
-[Python for Data Science Essential Training 1](https://maciejsok.github.io/scripts/py%2021%20Python%20Essential%20Training%20Part%201.html)
-
-[Python for Data Science Essential Training 2](https://maciejsok.github.io/scripts/py%2021%20Python%20Essential%20Training%20Part%202.html)
-
-> Web Scraping
 
 # SQL
 
