@@ -15,7 +15,7 @@
 
 [Python for Data Science Essential Training 1](https://maciejsok.github.io/scripts/py%2021%20Python%20Essential%20Training%20Part%201.html)
 
-[Python for Data Science Essential Training 2](https://maciejsok.github.io/scripts/py%2021%20Python%20Essential%20Training%20Part%202.html)
+[Python for Data Science Essential Training 2](https://maciejsok.github.io/scripts/py%2022%20Python%20Essential%20Training%20Part%202.html)
 
 > Web Scraping
 
