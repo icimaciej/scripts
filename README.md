@@ -1,7 +1,9 @@
+```
 - 👋 Hi
 - 👀 I’m interested in statistics, probability, and machine learning.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ... tbd
+```
 
 # Python
 
