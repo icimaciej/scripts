@@ -17,6 +17,16 @@
 
 [Python for Data Science Essential Training 2](https://maciejsok.github.io/scripts/py%2022%20Python%20Essential%20Training%20Part%202.html)
 
+> Getting Started
+
+[Learning Python](https://maciejsok.github.io/scripts/py%200001%20learning-python.html)
+
+[Python Essential Training](https://maciejsok.github.io/scripts/py%200003%20Python%20Essential%20Training.html)
+
+[Python Quick Start](https://maciejsok.github.io/scripts/py%200004%20Python%20Quick%20Start.html)
+
+[Learning the Python 3 Standard Library](https://maciejsok.github.io/scripts/py%200006%20Learning%20the%20Python%203%20Standard%20Library.html)
+
 > Web Scraping
 
 # R
