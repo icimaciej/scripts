@@ -80,3 +80,5 @@
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Learning Path Overview](https://docs.google.com/spreadsheets/d/1McvGQSqZePnMFoo1AFVZonfKr4M0U_IyY5wx4RcPrCU/edit#gid=2122272827)
+
+[Tasks](https://docs.google.com/document/d/1gBGvM4zG-TwVeuJZQJKO5cH9JjyeaHjK1MfLe3Kp8c0/edit)
