@@ -77,6 +77,8 @@
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
+[R for Data Science Handbook](https://r4ds.had.co.nz/index.html)
+
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Learning Path Overview](https://docs.google.com/spreadsheets/d/1McvGQSqZePnMFoo1AFVZonfKr4M0U_IyY5wx4RcPrCU/edit#gid=2122272827)
