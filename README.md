@@ -5,6 +5,10 @@
 - 📫 How to reach me ... tbd
 ```
 
+# Power BI
+
+[Power BI manual]()
+
 # Python
 
 > Learning Python
@@ -63,11 +67,7 @@
 
 # SQL
 
-> SQL cheatsheets
-
 # VBA
-
-> VBA cheatsheets
 
 # Other resources
 
