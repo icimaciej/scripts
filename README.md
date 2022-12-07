@@ -35,6 +35,8 @@
 
 > Web Scraping
 
+[Web Scraping]()
+
 # R
 
 > R scripts
@@ -53,8 +55,6 @@
 
 [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training](https://maciejsok.github.io/scripts/r%2017%20Algorithmic%20Trading%20and%20Finance%20Models%20with%20Python%2C%20R%2C%20and%20Stata%20Essential%20Training.html)
 
-[ ]( )
-
 > plots and visualizations
 
 [R Essential Training: Wrangling and Visualizing Data](https://maciejsok.github.io/scripts/r%2004%20plots%20R%20Essential%20Training%20Wrangling%20and%20Visualizing%20Data.html)
@@ -67,7 +67,15 @@
 
 # SQL
 
+[SQL]()
+
+# Tableau
+
+[Tableau manual]()
+
 # VBA
+
+[VBA]()
 
 # Other resources
 
