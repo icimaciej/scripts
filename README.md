@@ -1,10 +1,9 @@
+
+![image](https://raw.githubusercontent.com/maciejsok/scripts/main/image.png)
+
 ```
 - 👋 Hi
-- 👀 I’m interested in statistics, probability, and machine learning.
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me ... tbd
 ```
-
 # Power BI
 
 [Power BI manual]()
