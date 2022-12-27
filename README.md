@@ -6,7 +6,7 @@
 ```
 # Power BI
 
-[Power BI manual]()
+[Power BI manual](https://maciejsok.github.io/scripts/PowerBI.pdf)
 
 # Python
 
@@ -70,7 +70,7 @@
 
 # Tableau
 
-[Tableau manual]()
+[Tableau manual](https://maciejsok.github.io/scripts/Tableau.pdf)
 
 # VBA
 
