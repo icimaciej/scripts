@@ -66,7 +66,7 @@
 
 # SQL
 
-[SQL]()
+[SQL](https://maciejsok.github.io/scripts/SQL.pdf)
 
 # Tableau
 
