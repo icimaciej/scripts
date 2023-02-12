@@ -88,7 +88,7 @@
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-[Clinical Research] (https://icimaciej.github.io/scripts/py%20Clinical%20Research.html)
+[Clinical Research](https://icimaciej.github.io/scripts/py%20Clinical%20Research.html)
 
 [Learning Path Overview](https://docs.google.com/spreadsheets/d/1McvGQSqZePnMFoo1AFVZonfKr4M0U_IyY5wx4RcPrCU/edit#gid=2122272827)
 
