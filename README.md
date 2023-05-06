@@ -36,6 +36,12 @@
 
 [Web Scraping]()
 
+# Julia
+
+> Julia scripts
+
+[Learning Julia]()
+
 # R
 
 > R scripts
