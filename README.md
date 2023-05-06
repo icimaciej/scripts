@@ -4,6 +4,13 @@
 ```
 - 👋 Hi
 ```
+
+# Julia
+
+> Julia scripts
+
+[Learning Julia]()
+
 # Power BI
 
 [Power BI manual](https://icimaciej.github.io/scripts/PowerBI.pdf)
@@ -35,12 +42,6 @@
 > Web Scraping
 
 [Web Scraping]()
-
-# Julia
-
-> Julia scripts
-
-[Learning Julia]()
 
 # R
 
