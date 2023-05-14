@@ -85,20 +85,17 @@
 
 # Other resources
 
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[R for Data Science Handbook](https://r4ds.had.co.nz/index.html)
+
+[Julia Data Science](https://juliadatascience.io/juliadatascience.pdf)
+
 [Datasets](https://icimaciej.github.io/scripts/datasets.html)
 
 [UCI Machine Learning Repository datasets](https://archive.ics.uci.edu/ml/datasets.php)
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
-[R for Data Science Handbook](https://r4ds.had.co.nz/index.html)
-
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Clinical Research](https://icimaciej.github.io/scripts/py%20Clinical%20Research.html)
-
-[Learning Path Overview](https://docs.google.com/spreadsheets/d/1McvGQSqZePnMFoo1AFVZonfKr4M0U_IyY5wx4RcPrCU/edit#gid=2122272827)
-
-[Tasks](https://docs.google.com/document/d/1gBGvM4zG-TwVeuJZQJKO5cH9JjyeaHjK1MfLe3Kp8c0/edit)
-
-[Vocab](https://docs.google.com/spreadsheets/d/1tEqORZgybEJM4ow8dz9LDGROggCuELnCGbgRzQ_m4SQ/edit#gid=0)
