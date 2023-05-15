@@ -9,7 +9,7 @@
 
 > Julia scripts
 
-[Learning Julia]()
+[Learning Julia](https://icimaciej.github.io/scripts/jl%20Julia%20Essential%20Training.html)
 
 # Power BI
 
