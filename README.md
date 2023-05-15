@@ -13,7 +13,7 @@
 
 # Power BI
 
-[Power BI manual](https://icimaciej.github.io/scripts/PowerBI.pdf)
+>
 
 # Python
 
@@ -41,7 +41,6 @@
 
 > Web Scraping
 
-[Web Scraping]()
 
 # R
 
@@ -69,7 +68,7 @@
 
 [Data Visualization in R with ggplot2](https://icimaciej.github.io/scripts/r%2013%20plots%20Data%20Visualization%20in%20R%20with%20ggplot2.html)
 
-[Shiny App]()
+> Shiny App
 
 # SQL
 
@@ -81,7 +80,7 @@
 
 # VBA
 
-[VBA]()
+> VBA scripts
 
 # Other resources
 
