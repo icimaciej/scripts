@@ -13,7 +13,7 @@
 
 # Power BI
 
->
+> Power BI
 
 # Python
 
@@ -40,7 +40,6 @@
 [Learning the Python 3 Standard Library](https://icimaciej.github.io/scripts/py%200006%20Learning%20the%20Python%203%20Standard%20Library.html)
 
 > Web Scraping
-
 
 # R
 
