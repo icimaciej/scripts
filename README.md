@@ -13,7 +13,7 @@
 
 # Power BI
 
-> Power BI
+[Power BI](https://icimaciej.github.io/scripts/Power%20BI.pdf)
 
 # Python
 
