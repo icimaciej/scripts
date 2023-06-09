@@ -96,5 +96,4 @@
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
-
 [Clinical Research](https://icimaciej.github.io/scripts/py%20Clinical%20Research.html)
