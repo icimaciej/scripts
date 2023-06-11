@@ -22,6 +22,12 @@
 
 [Guide to Python](https://icimaciej.github.io/scripts/py%20w3schools.html)
 
+> Cheatsheets
+
+[1](https://raw.githubusercontent.com/icimaciej/scripts/main/py%20python.png)
+
+[2](https://raw.githubusercontent.com/icimaciej/scripts/main/py%20Python%20cheatsheet.png)
+
 > Data Science
 
 [Exploratory Data Analysis](https://icimaciej.github.io/scripts/py%20ExploratoryDataAnalysis.html)
