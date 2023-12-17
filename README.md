@@ -1,5 +1,3 @@
-[online](https://icimaciej.github.io/online/)
-
 ![image](https://raw.githubusercontent.com/icimaciej/scripts/main/image.png)
 
 ```
