@@ -94,6 +94,8 @@
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
+[Shiny - Welcome to Shiny (by Posit)](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
+
 [Mastering Shiny](https://mastering-shiny.org/basic-app.html)
 
 [Julia Data Science](https://juliadatascience.io/juliadatascience.pdf)
