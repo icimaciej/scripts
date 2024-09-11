@@ -86,11 +86,19 @@
 
 > VBA scripts
 
+# Data
+
+[Gapminder](https://www.gapminder.org/data/)
+
 # Other resources
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+[Simulations in Python](https://allendowney.github.io/ModSimPy/)
+
 [R for Data Science Handbook](https://r4ds.had.co.nz/index.html)
+
+[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
