@@ -92,24 +92,29 @@
 
 # Other resources
 
+> Python
+
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Simulations in Python](https://allendowney.github.io/ModSimPy/)
 
+> R
 [R for Data Science Handbook](https://r4ds.had.co.nz/index.html)
 
-[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)
-
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+[Technical Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/)
 
 [Shiny - Welcome to Shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
 
 [Mastering Shiny](https://mastering-shiny.org/basic-app.html)
 
+>Julia
+
 [Julia Data Science](https://juliadatascience.io/juliadatascience.pdf)
+
+> Datasets
 
 [Datasets](https://icimaciej.github.io/scripts/datasets.html)
 
 [UCI Machine Learning Repository datasets](https://archive.ics.uci.edu/ml/datasets.php)
-
-[Clinical Research](https://icimaciej.github.io/scripts/py%20Clinical%20Research.html)
