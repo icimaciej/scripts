@@ -86,9 +86,6 @@
 
 > VBA scripts
 
-# Data
-
-[Gapminder](https://www.gapminder.org/data/)
 
 # Other resources
 
@@ -99,6 +96,7 @@
 [Simulations in Python](https://allendowney.github.io/ModSimPy/)
 
 > R
+
 [R for Data Science Handbook](https://r4ds.had.co.nz/index.html)
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
@@ -117,4 +115,4 @@
 
 [Datasets](https://icimaciej.github.io/scripts/datasets.html)
 
-[UCI Machine Learning Repository datasets](https://archive.ics.uci.edu/ml/datasets.php)
+[Gapminder](https://www.gapminder.org/data/)
